@@ -17,13 +17,13 @@ sidebar:
     timezone: Europe/Rome
     citizenship:
 #     website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/muhammad-kashif-khan/
+    linkedin: muhammad-kashif-khan
 #     xing: alandoe
     github: kashikhan1
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@kashikhan_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -51,14 +51,18 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      6+ years of professional experience in software design and development.
+      Actively involved in object-oriented design and implementation of software components.
+      Experience in software development, and coordination with clients for demo purposes.
+      Expertise in taking over existing applications and making the fixes/updates after working closely with both internal and external stakeholders.
+      Development experience in NodeJs, ReactJs, REST API development, HTML, CSS3, MS - SQL, Postgresql, MongoDB, AngularJs, Ionic, Kafka, RabbitmQ, Python, AWS (EC2, S3 Bucket, Load Balancer).
+      Have an appreciation for the peace of mind that comes with well-tested, documented code.
+      Knowledge of projects/threads using tools like Jira and Azure Tickets etc.
+      Comfortable participating in collaborative discussions.
+      Familiarity with basic Agile principles/Scrum methodology.
+
 education:
     title: Education
     info:
