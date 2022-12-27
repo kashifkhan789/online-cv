@@ -66,68 +66,50 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS Software Engineering
+        university: University of Engineering & Technology , Taxila
+        time: 2011 - 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Studies focused on software design and development with Distributed Computing as major.
+            - Related Courses: Distributed Systems, Operating Systems, Object Oriented Programming, Parallel Computing,Computer Networks, Network Security, Database Systems, Computer Architecture, Software Construction
 experiences:
     title: Experiences
     info:
       - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        time: 01/2022 - Present
+        company: Devsurge, Pakistan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Delegate tasks to programmers and software developers
+            - Coordinate code inspection protocols to test the performance quality of products
+            - Assist software engineers in applying feedback from code inspection and PR reviews
+            - Establish deadlines for team members to achieve milestones for the projects
+            - Attend meetings with clients, stakeholders and upper management to discuss the project objectives
+      - role: Senior Full Stack Developer
+        time: 05/2018 - 01/2022
+        company: Glasc.io, South Africa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Responsible for developing high-quality software design and architecture Identifying, prioritising and executing tasks in the software development life cycle
+            - Developing tools and applications by producing clean, efficient code
+            - Automating tasks through appropriate tools and scripting; reviewing and debugging code.            
+      - role: Full stack Developer
+        time: 06/2017 - 04/2018
+        company: Barefoot Studio, Belgium
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Developing front end website architecture and Designing user interactions on web pages.
+            - Developing back end website applications and Creating servers and databases for functionality and Designing and developing APIs.
+            - Meeting both technical and consumer needs.
+      - role: Software Design Engineer
+        time: 12/2015 - 05/2017
+        company: Teresol, Rawalpindi Pakistan
+        details: |
+            - analyse user requirements.
+            - research, design and write new software programs (e.g. business applications or computer games) and computer operating systems.
+            -write and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project.
 projects:
     title: Projects
     intro: >
