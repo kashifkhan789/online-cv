@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Muhammad Kashif Khan
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: m.kashi.khan93.gmail.com
+    phone: +92 345 5064051
+    timezone: Europe/Rome
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+#     website: blog.webjeda.com #do not add http://
+    linkedin: www.linkedin.com/in/muhammad-kashif-khan/
+#     xing: alandoe
+    github: kashikhan1
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -33,13 +33,10 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Urdu
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -50,7 +47,7 @@ sidebar:
         - item: Snowboarding
           link:
 
-        - item: Cooking
+        - item: Football
           link:
 
 career-profile:
