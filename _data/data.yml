@@ -109,33 +109,33 @@ experiences:
         details: |
             - analyse user requirements.
             - research, design and write new software programs (e.g. business applications or computer games) and computer operating systems.
-            -write and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project.
+            - write and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project.
 projects:
     title: Oware (Warehouse Management System)
     link: "https://oware.co"
     intro: >
       To Offer scalable and tech-driven Warehousing and Distribution to B2B and retail through a connected world of distribution via a network of fulfillments centers and third-party logistics service providers.
 #     Role & Accomplishments:
-        tagline: "React Js, MY-SQL ,Redis, MaterialUI, Socket.io, AWS, Github, github pipeline"
+# tagline: "React Js, MY-SQL ,Redis, MaterialUI, Socket.io, AWS, Github, github pipeline"
 
-# oss:
-    title: Turing Insights
-    intro: >
-      Turing Insights is looking to create the world's most advanced and accurate digital on-board trailer weighing platform for heavyweight movement companies (HWMC) and has the intention of being a third-party authority validating correct load quantities.
+# # oss:
+#     title: Turing Insights
+#     intro: >
+#       Turing Insights is looking to create the world's most advanced and accurate digital on-board trailer weighing platform for heavyweight movement companies (HWMC) and has the intention of being a third-party authority validating correct load quantities.
      
-      The Turing Insights platform will provide weight moving companies with accurate weight and geo-location of their loads and revenues globally. The platform will be using analytical techniques to derive insight and actions for the end users to improve the trailer performance through optimisation and governance. The analytics is tailored to the different personas on the platform, currently defined as the executive and operations manager of the weight moving company.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       The Turing Insights platform will provide weight moving companies with accurate weight and geo-location of their loads and revenues globally. The platform will be using analytical techniques to derive insight and actions for the end users to improve the trailer performance through optimisation and governance. The analytics is tailored to the different personas on the platform, currently defined as the executive and operations manager of the weight moving company.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
