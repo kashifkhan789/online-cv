@@ -114,47 +114,24 @@ projects:
     assignments:
       - title: Oware (Warehouse Management System)
         link: "https://oware.co"
-        intro: >
-          To Offer scalable and tech-driven Warehousing and Distribution to B2B and retail through a connected world of distribution via a network of fulfillments centers and third-party logistics service providers.
+        tagline: "To Offer scalable and tech-driven Warehousing and Distribution to B2B and retail through a connected world of distribution via a network of fulfillments centers and third-party logistics service providers."
 #     Role & Accomplishments:
 # tagline: "React Js, MY-SQL ,Redis, MaterialUI, Socket.io, AWS, Github, github pipeline"
       - title: Turing (REAL-TIME WEIGHT IN MOTION)
         link: "https://turing-insights.com"
-        intro: >
-          Turing Insights solves challenges in the bulk transport industry, by having accurate real-time visibility on payloads and vehicles.
+        tagline: "Turing Insights solves challenges in the bulk transport industry, by having accurate real-time visibility on payloads and vehicles."
       
       - title: Kowo
         link: "https://www.kowo.io"
-        intro: >
-          Kowo is a mobile and web application organizing and motivating inter-company carpooling.
-          Kowo help colleagues to improve their daily commuting in an ecologic, economic and stress-free way.
+        tagline: "Kowo is a mobile and web application organizing and motivating inter-company carpooling.Kowo help colleagues to improve their daily commuting in an ecologic, economic and stress-free way."
       
       - title: Decmocy
         link: "https://democy.de"
-        intro: >
-          This app offers a platform where individuals and companies can conveniently conduct target surveys and acquire data from qualified respondents. Using the sponsor portal, you can filter respondents through age, gender, country, and more options! Real Research offers a highly secure, efficient, and reliable ecosystem for data gathering. Our main goal is to help business owners produce and deliver strong research backed-up by real and un-manipulated data.
+        tagline: "This app offers a platform where individuals and companies can conveniently conduct target surveys and acquire data from qualified respondents. Using the sponsor portal, you can filter respondents through age, gender, country, and more options! Real Research offers a highly secure, efficient, and reliable ecosystem for data gathering. Our main goal is to help business owners produce and deliver strong research backed-up by real and un-manipulated data."
       
       - title: Invoice
-        intro: >
-          Invoice Simple is a fast and easy invoice app for sending invoices and estimates to your customers.
-# # oss:
-#     title: Turing Insights
-#     intro: >
-#       Turing Insights is looking to create the world's most advanced and accurate digital on-board trailer weighing platform for heavyweight movement companies (HWMC) and has the intention of being a third-party authority validating correct load quantities.
-     
-#       The Turing Insights platform will provide weight moving companies with accurate weight and geo-location of their loads and revenues globally. The platform will be using analytical techniques to derive insight and actions for the end users to improve the trailer performance through optimisation and governance. The analytics is tailored to the different personas on the platform, currently defined as the executive and operations manager of the weight moving company.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Invoice Simple is a fast and easy invoice app for sending invoices and estimates to your customers."
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
