@@ -117,7 +117,25 @@ projects:
       To Offer scalable and tech-driven Warehousing and Distribution to B2B and retail through a connected world of distribution via a network of fulfillments centers and third-party logistics service providers.
 #     Role & Accomplishments:
 # tagline: "React Js, MY-SQL ,Redis, MaterialUI, Socket.io, AWS, Github, github pipeline"
-
+    title: Turing (REAL-TIME WEIGHT IN MOTION)
+    link: "https://turing-insights.com"
+    intro: >
+      Turing Insights solves challenges in the bulk transport industry, by having accurate real-time visibility on payloads and vehicles.
+      
+    title: Kowo
+    link: "https://www.kowo.io"
+    intro: >
+      Kowo is a mobile and web application organizing and motivating inter-company carpooling.
+      Kowo help colleagues to improve their daily commuting in an ecologic, economic and stress-free way.
+      
+    title: Decmocy
+    link: "https://democy.de"
+    intro: >
+      This app offers a platform where individuals and companies can conveniently conduct target surveys and acquire data from qualified respondents. Using the sponsor portal, you can filter respondents through age, gender, country, and more options! Real Research offers a highly secure, efficient, and reliable ecosystem for data gathering. Our main goal is to help business owners produce and deliver strong research backed-up by real and un-manipulated data.
+      
+    title: Invoice
+    intro: >
+      Invoice Simple is a fast and easy invoice app for sending invoices and estimates to your customers.
 # # oss:
 #     title: Turing Insights
 #     intro: >
